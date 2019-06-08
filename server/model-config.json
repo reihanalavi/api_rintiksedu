@@ -20,5 +20,9 @@
   "dulurmbahoko": {
     "dataSource": "rintiks",
     "public": true
+  },
+  "uselessendpoint": {
+    "dataSource": "rintiks",
+    "public": true
   }
 }
