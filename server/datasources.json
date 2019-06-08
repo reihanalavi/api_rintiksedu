@@ -1,0 +1,12 @@
+{
+  "rintiks": {
+    "host": "@cluster0-qaysl.mongodb.net",
+    "port": 0,
+    "url": "mongodb+srv://reihanalavi:reihanalavi@cluster0-qaysl.mongodb.net/test?retryWrites=true",
+    "database": "test",
+    "password": "reihanalavi",
+    "name": "rintiks",
+    "user": "reihanalavi",
+    "connector": "mongodb"
+  }
+}

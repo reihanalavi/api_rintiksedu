@@ -1,0 +1,39 @@
+{
+  "name": "CoretanPaus",
+  "plural": "coretanpaus",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "quotes": {
+      "type": "string",
+      "required": true
+    },
+    "caption": {
+      "type": "string",
+      "required": true
+    },
+    "datePost": {
+      "type": "string",
+      "required": true
+    },
+    "dateCreated": {
+      "type": "string",
+      "required": true
+    },
+    "likers": {
+      "type": "number",
+      "required": true
+    },
+    "bestComment": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
