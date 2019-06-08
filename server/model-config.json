@@ -16,5 +16,9 @@
   "CoretanPaus": {
     "dataSource": "rintiks",
     "public": true
+  },
+  "dulurmbahoko": {
+    "dataSource": "rintiks",
+    "public": true
   }
 }
