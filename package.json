@@ -11,7 +11,7 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
-    "express": "^4.9.8",
+    "express": "^4.17.3",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
